@@ -1,0 +1,8 @@
+channel_name: "Anthropic"
+channel_slug: "anthropic-ai"
+channel_type: "info"
+channel_url: "https://www.youtube.com/@anthropic-ai"
+added_date: "2025-11-15"
+last_sync: "2026-03-09"
+sync_count: 9
+notes: "Official Anthropic channel covering Claude model releases, safety research, and model update briefings."
