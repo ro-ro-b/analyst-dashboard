@@ -2,7 +2,8 @@ import Link from 'next/link';
 import { listChannels } from '@/lib/data';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { Calendar } from 'lucide-react';
+import { Button } from '@/components/ui/button';
+import { Calendar, ListFilter } from 'lucide-react';
 
 export default async function DashboardPage() {
   let channels;
@@ -27,6 +28,12 @@ export default async function DashboardPage() {
           <p className="max-w-2xl text-sm text-slate-400">
             Browse latest analyst transcript summaries and thesis tracking across discovered channels.
           </p>
+          <Button asChild variant="ghost" className="w-fit px-0 text-slate-200 hover:bg-transparent hover:text-slate-50">
+            <Link href="/summaries" className="inline-flex items-center gap-2">
+              <ListFilter className="h-4 w-4" />
+              Browse All Summaries
+            </Link>
+          </Button>
         </header>
 
         {error ? (
@@ -67,9 +74,9 @@ export default async function DashboardPage() {
                 </Link>
               ))
             ) : (
-              <div className="col-span-full rounded-xl border border-dashed border-slate-800 bg-slate-950/60 px-4 py-8 text-center">
-                <p className="text-sm text-slate-500">No channels discovered yet.</p>
-              </div>
+              <p className="col-span-full text-center text-sm text-slate-500">
+                No channels found. Add channel data to get started.
+              </p>
             )}
           </section>
         )}
