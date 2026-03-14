@@ -11,8 +11,7 @@ export default async function TimelinePage({
 }) {
   const { slug } = await params;
   const channel = await getChannelDetail(slug);
-  const summaries = await listChannelSummaries(slug);
-  const items = summaries.items;
+  const { items } = await listChannelSummaries(slug);
 
   return (
     <main className="mx-auto flex w-full max-w-5xl flex-col gap-8 px-4 py-8 sm:px-6 lg:px-8">
