@@ -1,8 +1,8 @@
-channel_name: "SpotGamma Options"
-channel_url: "https://www.youtube.com/@SpotGamma"
+channel_name: SpotGamma
+channel_url: "https://www.youtube.com/@spotgamma/streams"
 channel_slug: spotgamma
 channel_type: narrative
-added_date: 2026-02-10
-last_sync: 2026-03-07
-sync_count: 45
-notes: "Options flow and gamma exposure analysis"
+added_date: 2026-03-04
+last_sync: 2026-03-14
+sync_count: 15
+notes: "Options flow & gamma exposure analytics -- options market structure, gamma exposure (GEX), dealer positioning, volatility regime analysis"

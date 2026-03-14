@@ -1,0 +1,26 @@
+---
+title: "Magnum Opus Trading Course Trailer!"
+channel: "SUBSCRIBE NOW at www.theonelanceb.com to be the first to know when it launches as well as r"
+channel_slug: lance-b
+video_id: mdCzn7n4ODc
+video_url: https://www.youtube.com/watch?v=mdCzn7n4ODc
+upload_date: 2024-07-25
+duration: "2:48"
+description: "Magnum Opus is the compendium of everything I’ve learned from my 10+ years on Wall Street. This will be the most comprehensive trading course ever created, featuring over 150 videos covering my personal playbooks, case studies, and never-before-seen trading concepts. This living project will continu"
+view_count: 
+transcript_type: auto-generated
+sync_date: 2026-03-05
+---
+
+# Magnum Opus Trading Course Trailer!
+
+**Channel:** SUBSCRIBE NOW at www.theonelanceb.com to be the first to know when it launches as well as r
+**Date:** 2024-07-25
+**Duration:** 2:48
+**Video:** https://www.youtube.com/watch?v=mdCzn7n4ODc
+
+---
+
+## Transcript
+
+**[0:01]** you need to understand that to succeed at the markets you need to mold yourself into someone into someone exceptional Lance bright Stein Lance brightenstein Lance breitstein has made over 10 million in trading profits in a single year multiple times in this Arena it's you versus every institution every veteran trader and every shark out there people like me with Decades of experience and trust me they'll take your money I'm going to give you all the tools to compete and succeed and when that goes well let's go there are three basic characteristics that make up an elite Trader first and above all else you need a deep understanding of expected value expected value whether you know it or not drives every trading decision you make second Elite Traders also know when to bet and when to bet big the third part and often the most overlooked one Elite Traders have learned processes to improve their trading game in this ever expanding course I'm going to teach you all of these things along with trading Concepts and nuances of technical analysis I've never seen published by anyone anywhere for example I'm getting most aggressive when the less experienced Traders are the most scared well that's not magic it's usually based on a combination of things that I've learned to master and take advantage of after thousands of hours in front of the screen I've used material in this course to make tens of millions of dollars and it has taught the traders that I've mentored to make millions too and I'm going to teach you how to do just that I think that was cool I think we do it once more just because get ready to master expected value exponential bet sizing how to structure your positions and how to execute trades within your playbook if you can learn to master the odds and the psychology behind what you are doing it's entirely skill-based in the long **[2:02]** it's entirely skill-based in the long run a lot of people can convince themselves into thinking that they're losing because they're unlucky when it's actually just a lack of edge too many beginners have no Edge no real strategy or Playbook and they get fooled by the randomness of the markets again and again you're going to make a lot of mistakes learning nothing from those mistakes is the mistake to stay competitive you need to learn and continually employ the principles that that allow one to outperform the market year after year I'm Lance breitstein and this is my compendium of everything I've learned trading on Wall Street this is the Legacy I want to leave the trading Community this is my magnum opus

@@ -1,0 +1,26 @@
+---
+type: video_summary
+channel: Jordi Visser Labs
+channel_slug: jordi-visser
+generated_date: 2026-03-03
+model: claude-sonnet-4-5-20250929
+---
+
+## Key Points
+- Taiwanese dollar canary moment: fastest pace rise in decades (since 1998 LTCM/Asian crisis), chart shows 84-2025 only two major breaks (1998 + now), Brad Setser/Stephen Jen warning "$2.5 trillion avalanche of Asian sales," insurers clash over hedging = unwind of post-1997 dollar hoarding by Asian countries, "this has just started, long-term trend"
+- Dollar peaked = structural shift confirmed: trade-weighted dollar just made high (chart back to 1971 Bretton Woods), RSI divergences at peak, Asian dollar low Jan 13th retested two weeks ago, "something needs to go on with Chinese yuan, should be revalued or let float stronger maybe down to 6.5," Ken Rogoff new book validates thesis, "weakening dollar has become bigger part of equation"
+- Rates = most important story in markets: 10-year yields up 60bps since Fed September cut (360→440), white line (10-year rates) orange line (nominal GDP) about to cross for first time since 1997 when Asian currency pegs broke = "rates migrating back, will start having tenure rates above because lost global reserve currency status, most important story, huge implications"
+- Service economy dominates = tariffs overblown: personal consumption durables (goods subject to tariffs) $2.3T, services $14.3T, last year services grew MORE than entire durables amount, goods payrolls 21M (same as 1965), services payrolls 40M→140M since 1965, "ludicrous to talk about it's going to happen," claims 226K (jumped 15K prior week New York holidays, came back off) = zero job losses
+- Inflation building from multiple sources: tariffs short-term, weaker dollar pressure, tax cuts to bottom 90% stimulative (won't change wealthy spending habits but huge for bottom), AI power shortage H2 2025, Doge found nothing (deficit still there), Asia repatriation on benchmark bond, talking about restructuring debt, JGB yields highest this century, Germany/China spending first time in career
+
+## Notable Claims or Positions
+- Ken Rogoff vs Ray Dalio: Rogoff more balanced (chess player, dropped out college, changes mind), four podcasts last week worth listening, "when you lose global reserve currency status, interest rates start to move higher," rates were lower than otherwise should be (dollar was gold for Asian countries needing protection against next crisis)
+- Bessent's model completely wrong: confirmation hearing said 10% tariff → 4% dollar appreciation → producers absorb 4% → only 2% increase to consumer, "classical economic model, models will only get you in trouble especially when garbage," dollar DEPRECIATED more than 4% not appreciated = opposite happened, Goldman raising PCE forecasts to 3.8% (was 3.5% and 2.3%)
+- Fed will have to intervene when rates spike: Luke Groman "either need rates go higher, devaluation of dollar, then Fed will have to come in put pressure," balance sheet only shrinking slightly now (reduced significantly but still buying at auctions because debt maturing recycling back), "eventually without any doubt government going to have to get involved if rates start going higher"
+- Long-duration assets = US exposed: "US leader on globe of long-duration assets" (VC, private equity, high growth tech), if rates moving higher = "huge implications," Moody's investment grade 6.25% vs S&P earnings yield 4.6% = bonds already better investment, S&P since 2021 only 6% annualized returns, elite colleges rushing exits from private equity
+- Capital structure changing permanently: Michael Sailor speech "capital markets unhealthy, full of zombie companies, 30% companies beating S&P because only seven actually going," Peter Diamandis trillion dollar AI reset, Stripe sessions keynote (homework for Wall Street), product lifespan shrinking (5M ARR: SaaS took years, AI 100 took months, new AI taking weeks) = "competition happening so fast, scale rapidly, peter out faster"
+
+## Actionable Takeaways
+- Rising rates = biggest risk not recession: cumulative pressures (tariffs + weak dollar + tax cuts + AI power shortage + Doge failure + debt to GDP 120% + synchronized global debt maturity 40% by 2027 + Asia repatriation + talking restructuring + JGB yields + Germany/China spending) = "enough reasons be bearish bonds, that should be where bears are," impact on long-duration assets (VC/PE/high growth tech) like 2022
+- Dollar smile → dollar frown: Stephen Jen architect of dollar smile (appreciate in recession OR if US growth/yields strong, depreciate in synchronized upswing), now introducing "dollar frown" = sell dollar in EITHER scenario (if recession probably goes down AND lost safe haven status), Asian currencies all sending same message, "think long dollar short mag7, rate of change higher going forward"
+- Bitcoin/stable coins = borderless financial services: Stripe Bridge payment volume growth chart vs Stripe's first 24 months = growing FASTER than unicorn Stripe at same stage, crossborder payments allowing "kids in Brazil sell to Americans all using stable coins," Visa/Mastercard offer support for AI agents, Stripe sessions + Michael Sailor speech + Peter Diamandis = three homework videos for capital structure future, "Internet capital markets being built real-time, pretty damn cool"

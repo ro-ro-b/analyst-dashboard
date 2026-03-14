@@ -1,8 +1,8 @@
-channel_name: "Anthropic AI Updates"
-channel_url: "https://www.youtube.com/@AnthropicAI"
+channel_name: Anthropic
+channel_url: "https://www.youtube.com/@anthropic-ai"
 channel_slug: anthropic-ai
 channel_type: info
-added_date: 2026-01-15
-last_sync: 2026-02-06
-sync_count: 24
-notes: "AI safety and capabilities research"
+added_date: 2026-03-03
+last_sync: 2026-03-14
+sync_count: 11
+notes: AI research, Claude updates, safety research, technical deep dives
