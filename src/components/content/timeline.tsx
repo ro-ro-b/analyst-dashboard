@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { Calendar, Clock } from 'lucide-react';
+import { Calendar, Clock, Cpu } from 'lucide-react';
 import type { SummaryMeta } from '@/types';
 
 interface TimelineProps {
@@ -44,6 +44,14 @@ function formatDate(dateStr: string): string {
 export function Timeline({ items, channelSlug }: TimelineProps) {
   const groups = groupByMonth(items);
 
+  if (items.length === 0) {
+    return (
+      <div className="py-12 text-center text-sm text-slate-400">
+        No summaries available yet.
+      </div>
+    );
+  }
+
   return (
     <div className="relative space-y-8">
       {Array.from(groups.entries()).map(([monthLabel, groupItems]) => (
@@ -75,7 +83,8 @@ export function Timeline({ items, channelSlug }: TimelineProps) {
                       </span>
                     )}
                     {item.model && (
-                      <span className="inline-flex items-center rounded-full border border-slate-700 bg-slate-800 px-2 py-0.5 text-[11px] font-medium text-slate-200">
+                      <span className="inline-flex items-center gap-1.5">
+                        <Cpu className="h-3 w-3" />
                         {item.model}
                       </span>
                     )}

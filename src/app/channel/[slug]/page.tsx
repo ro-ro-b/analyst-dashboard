@@ -84,21 +84,18 @@ export default async function ChannelPage({
                   key={summary.filename}
                   href={`/channel/${slug}/summary/${summary.filename}`}
                 >
-                  <div className="group flex w-full flex-col gap-2 rounded-xl border border-slate-800 bg-slate-900/60 p-4 text-left transition-all duration-200 hover:border-slate-700 hover:bg-slate-900/80 cursor-pointer">
-                    <p className="text-sm font-medium text-slate-200 group-hover:text-slate-50">
-                      {summary.title}
-                    </p>
-                    <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-slate-400">
+                  <div className="group flex w-full flex-col gap-2 rounded-xl border border-slate-800 bg-slate-900/60 p-4 transition-colors hover:border-slate-700 hover:bg-slate-900">
+                    <div className="flex items-start justify-between gap-2">
+                      <h3 className="text-sm font-medium text-slate-100 group-hover:text-white transition-colors">
+                        {summary.title}
+                      </h3>
+                    </div>
+                    <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-slate-500">
                       <span className="inline-flex items-center gap-1">
                         <Calendar className="h-3 w-3" />
                         {summary.sourceDate}
                       </span>
-                      {summary.duration && (
-                        <span className="inline-flex items-center gap-1">
-                          <Clock className="h-3 w-3" />
-                          {summary.duration}
-                        </span>
-                      )}
+                      {summary.duration && <span>{summary.duration}</span>}
                     </div>
                   </div>
                 </Link>

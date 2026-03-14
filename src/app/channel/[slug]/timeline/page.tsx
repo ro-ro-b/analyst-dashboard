@@ -3,6 +3,7 @@ import { ArrowLeft } from 'lucide-react';
 import { getChannelDetail, listChannelSummaries } from '@/lib/data';
 import { Timeline } from '@/components/content/timeline';
 import { EmptyState } from '@/components/content/empty-state';
+import { notFound } from 'next/navigation';
 
 export default async function TimelinePage({
   params,
@@ -11,6 +12,11 @@ export default async function TimelinePage({
 }) {
   const { slug } = await params;
   const channel = await getChannelDetail(slug);
+
+  if (!channel) {
+    notFound();
+  }
+
   const summaries = await listChannelSummaries(slug);
   const items = summaries.items;
 
