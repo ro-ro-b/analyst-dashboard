@@ -63,6 +63,16 @@ export default async function ChannelPage({
           <ChannelTabs channel={channel} />
         </section>
 
+        <div className="mt-4 mb-2">
+          <Link
+            href={`/channel/${slug}/timeline`}
+            className="inline-flex items-center gap-1 text-sm text-slate-400 hover:text-slate-200 transition-colors"
+          >
+            <Clock className="h-4 w-4" />
+            View Timeline
+          </Link>
+        </div>
+
         <section className="mt-6">
           <div className="mb-3 flex items-center justify-between">
             <h2 className="text-lg font-semibold text-slate-100">Video Summaries</h2>
@@ -78,28 +88,23 @@ export default async function ChannelPage({
                     <p className="text-sm font-medium text-slate-200 group-hover:text-slate-50">
                       {summary.title}
                     </p>
-                    <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-xs text-slate-400">
-                      {summary.sourceDate && (
-                        <span className="inline-flex items-center gap-1 font-mono">
-                          <Calendar className="h-3 w-3" />
-                          {summary.sourceDate}
-                        </span>
-                      )}
+                    <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-slate-400">
+                      <span className="inline-flex items-center gap-1">
+                        <Calendar className="h-3 w-3" />
+                        {summary.sourceDate}
+                      </span>
                       {summary.duration && (
-                        <span className="inline-flex items-center gap-1 font-mono">
+                        <span className="inline-flex items-center gap-1">
                           <Clock className="h-3 w-3" />
                           {summary.duration}
                         </span>
-                      )}
-                      {summary.model && (
-                        <span className="font-mono">{summary.model}</span>
                       )}
                     </div>
                   </div>
                 </Link>
               ))
             ) : (
-              <EmptyState message="No summaries yet" />
+              <EmptyState message="No summaries available for this channel yet." />
             )}
           </div>
         </section>
