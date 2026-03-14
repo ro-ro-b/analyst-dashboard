@@ -1,0 +1,12 @@
+{
+  "name": "Analyst Dashboard",
+  "short_name": "Analyst",
+  "description": "Browse analyst transcript summaries and thesis tracking",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
